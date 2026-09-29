@@ -2,10 +2,10 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Griffin Forestry",
     "description": "",
-    "home_page_url": "https://github.com/dedwards7891/griffin-forestry",
-    "feed_url": "https://github.com/dedwards7891/griffin-forestry/feed.json",
+    "home_page_url": "https://dedwards7891.github.io/griffin-forestry",
+    "feed_url": "https://dedwards7891.github.io/griffin-forestry/feed.json",
     "user_comment": "",
-    "icon": "https://github.com/dedwards7891/griffin-forestry/media/website/griffin-forestry-logo-branding-for-eLearning-v2.svg",
+    "icon": "https://dedwards7891.github.io/griffin-forestry/media/website/griffin-forestry-logo-branding-for-eLearning-v2.svg",
     "author": {
         "name": "David Edwards"
     },

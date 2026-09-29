@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Griffin Forestry</title>
-    <link href="https://github.com/dedwards7891/griffin-forestry/feed.xml" rel="self" />
-    <link href="https://github.com/dedwards7891/griffin-forestry" />
+    <link href="https://dedwards7891.github.io/griffin-forestry/feed.xml" rel="self" />
+    <link href="https://dedwards7891.github.io/griffin-forestry" />
     <updated>1969-12-31T16:00:00-08:00</updated>
     <author>
         <name>David Edwards</name>
     </author>
-    <id>https://github.com/dedwards7891/griffin-forestry</id>
+    <id>https://dedwards7891.github.io/griffin-forestry</id>
 
 </feed>
