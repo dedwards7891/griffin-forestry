@@ -3,10 +3,56 @@
     <title>Griffin Forestry</title>
     <link href="https://dedwards7891.github.io/griffin-forestry/feed.xml" rel="self" />
     <link href="https://dedwards7891.github.io/griffin-forestry" />
-    <updated>1969-12-31T16:00:00-08:00</updated>
+    <updated>2026-09-30T14:03:03-07:00</updated>
     <author>
         <name>David Edwards</name>
     </author>
     <id>https://dedwards7891.github.io/griffin-forestry</id>
 
+    <entry>
+        <title>Designated Forest Land</title>
+        <author>
+            <name>David Edwards</name>
+        </author>
+        <link href="https://dedwards7891.github.io/griffin-forestry/designated-forest-land/"/>
+        <id>https://dedwards7891.github.io/griffin-forestry/designated-forest-land/</id>
+        <media:content url="https://dedwards7891.github.io/griffin-forestry/media/posts/5/Log-end.jpg" medium="image" />
+            <category term="forestry"/>
+            <category term="forest management"/>
+            <category term="designated forest land"/>
+            <category term="current use"/>
+            <category term="DFL"/>
+            <category term="Articles"/>
+
+        <updated>2025-05-12T13:47:00-07:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://dedwards7891.github.io/griffin-forestry/media/posts/5/Log-end.jpg" alt="The cut end of a log" />
+                    In 2019, the Washington State Legislature commissioned a study by the University of Washington of trends in small, non-industrial private forest land ownership and management1. The UW study predicts that as many as 50,000 small forest landowners will sell some or all their forest land&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://dedwards7891.github.io/griffin-forestry/media/posts/5/Log-end.jpg" class="type:primaryImage" alt="The cut end of a log" /></p>
+                <div><p>In 2019, the Washington State Legislature commissioned a study by the University of Washington of trends in small, non-industrial private forest land ownership and management<sup>1</sup>. The UW study predicts that as many as 50,000 small forest landowners will sell some or all their forest land within the decade following the study report’s release date<sup>2</sup>. An additional study from 2024 of small forest land ownership transfers revealed that, while most forest landowners would prefer to pass their forest land on as an inheritance to their children or grandchildren, the reality is that—in Washington State and nationally—most new forest owners purchase their land from a non-relative<sup>3</sup>.
+<br>
+<br>We regularly see such forest land sales here in the North Puget Sound counties. Often the sellers of forested parcels have enrolled them in the county’s Designated Forest Land (DFL) current use property tax exemption program, which may be unfamiliar to prospective buyers.
+<br>
+<br>Under the DFL exemption, the county calculates the property tax rate for qualifying forest land parcels based on their timber production value rather than their full market value. This often results in significantly lower property taxes, but along with the benefit comes a responsibility for the new owner to manage the land for long-term timber production. The process for continuing a parcel in DFL isn’t difficult, but it typically requires the new owners to submit a timber management plan that describes to the county how they will manage their land for timber production. Per state law, the plan must be “prepared by a trained forester, or any other person with adequate knowledge of timber management practices<sup>4</sup>.” We have written timber management for many DFL clients in Island and Snohomish counties, and we find them to be a great tool for helping the new landowner form and focus their goals for their forest.
+<br>
+<br>That said, timing is important. Submitting a timber management plan after closing—or scrambling to draft one at the last minute—can cause real headaches. We’ve seen closings at risk because a required plan wasn’t ready in time for the county’s review. If you’re under contract on a forested property enrolled in DFL and plan to keep it in the program, we strongly recommend starting the timber management plan-writing process early. Getting ahead of this requirement can save you from unexpected delays and give you a head start on understanding your land’s potential.
+<br>
+<br>For a clear, up-to-date overview of the DFL program—including eligibility, benefits, and landowner responsibilities—WSU Extension Forestry’s 2024 publication, “Designated Forestland in Washington State” is an excellent resource<sup>5</sup>. It’s a great place to start if you’re considering a forest land purchase, or if you’re a real estate agent helping clients navigate this process.
+<br>
+<br><sup>1</sup> Washington State Legislature, Engrossed Substitute Senate Bill 5330, Chapter 457, Laws of 2019, 66th Legislature, 2019 Regular Session, approved May 21, 2019, effective July 28, 2019.<br><br><sup>2</sup> University of Washington School of Environmental and Forest Sciences, Washington’s Small Forest Landowners in 2020: Status, Trends, and Recommendations After 20 Years of Forests &amp; Fish, January 11, 2021, https://nrsig.org/projects/small-forest-landowner-regulatory-impacts/files/Small-Forestland-Owners-ESSB-5330-Report-2021011.pdf</p></div>
+<div><p><sup>3</sup> Danley, B., Rabotyagov, S., &amp; Cooke, A. (2024). Following up with Forest Inheritors: A Survival Analysis of Recently Inherited and Recently Sold Non-Industrial Forest Land in the State of Washington, USA. Small-scale Forestry, 23(175–189). https://doi.org/10.1007/s11842-023-09559-7.&nbsp;<br></p></div>
+<div><p><sup>4</sup>RCW 84.33.035 (21)&nbsp;<br></p></div>
+<div><p><sup>5</sup> Washington State University Extension, Designated Forestland in Washington State, May 2024, WSU Extension Publications.&nbsp;</p></div>
+
+  <p>
+    
+  </p>
+            ]]>
+        </content>
+    </entry>
 </feed>
