@@ -1,28 +1,28 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="https://dedwards7891.github.io/griffin-forestry/sitemap.xsl"?>
+<?xml-stylesheet type="text/xsl" href="https://griffinforestry.com/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
 <url>
-<loc>https://dedwards7891.github.io/griffin-forestry/</loc>
+<loc>https://griffinforestry.com/</loc>
 </url>
 <url>
-<loc>https://dedwards7891.github.io/griffin-forestry/designated-forest-land/</loc>
+<loc>https://griffinforestry.com/designated-forest-land/</loc>
 <lastmod>2026-09-30T14:08:42-07:00</lastmod>
 <image:image>
-<image:loc>https://dedwards7891.github.io/griffin-forestry/media/posts/5/Log-end.jpg</image:loc>
+<image:loc>https://griffinforestry.com/media/posts/5/Log-end.jpg</image:loc>
 <image:title><![CDATA[The cut end of a log]]></image:title>
 </image:image>
 </url>
 <url>
-<loc>https://dedwards7891.github.io/griffin-forestry/forestry-consulting-services/forest-management-services/</loc>
+<loc>https://griffinforestry.com/forestry-consulting-services/forest-management-services/</loc>
 </url>
 <url>
-<loc>https://dedwards7891.github.io/griffin-forestry/forestry-consulting-services/gis-and-imagery-analysis/</loc>
+<loc>https://griffinforestry.com/forestry-consulting-services/gis-and-imagery-analysis/</loc>
 </url>
 <url>
-<loc>https://dedwards7891.github.io/griffin-forestry/what-is-a-tsp/</loc>
+<loc>https://griffinforestry.com/what-is-a-tsp/</loc>
 <lastmod>2026-10-01T16:49:09-07:00</lastmod>
 <image:image>
-<image:loc>https://dedwards7891.github.io/griffin-forestry/media/posts/6/NRCS-with-TSP.webp</image:loc>
+<image:loc>https://griffinforestry.com/media/posts/6/NRCS-with-TSP.webp</image:loc>
 <image:title><![CDATA[NRCS TSP logo]]></image:title>
 </image:image>
 </url>

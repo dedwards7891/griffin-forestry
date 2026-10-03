@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
     <title>Griffin Forestry</title>
-    <link href="https://dedwards7891.github.io/griffin-forestry/feed.xml" rel="self" />
-    <link href="https://dedwards7891.github.io/griffin-forestry" />
+    <link href="https://griffinforestry.com/feed.xml" rel="self" />
+    <link href="https://griffinforestry.com" />
     <updated>2026-10-01T16:49:09-07:00</updated>
     <author>
         <name>David Edwards</name>
     </author>
-    <id>https://dedwards7891.github.io/griffin-forestry</id>
+    <id>https://griffinforestry.com</id>
 
     <entry>
         <title>What is a TSP?</title>
         <author>
             <name>David Edwards</name>
         </author>
-        <link href="https://dedwards7891.github.io/griffin-forestry/what-is-a-tsp/"/>
-        <id>https://dedwards7891.github.io/griffin-forestry/what-is-a-tsp/</id>
+        <link href="https://griffinforestry.com/what-is-a-tsp/"/>
+        <id>https://griffinforestry.com/what-is-a-tsp/</id>
             <category term="forestry"/>
             <category term="forest management"/>
             <category term="TSP"/>
@@ -32,7 +32,7 @@
             <![CDATA[
                 
     <figure class="post__image post__image--center">
-      <img loading="lazy" src="https://dedwards7891.github.io/griffin-forestry/media/posts/6/NRCS-with-TSP.webp" height="628" width="1200" alt="NRCS TSP logo"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://dedwards7891.github.io/griffin-forestry/media/posts/6/responsive/NRCS-with-TSP-xs.webp 640w ,https://dedwards7891.github.io/griffin-forestry/media/posts/6/responsive/NRCS-with-TSP-sm.webp 768w ,https://dedwards7891.github.io/griffin-forestry/media/posts/6/responsive/NRCS-with-TSP-md.webp 1024w ,https://dedwards7891.github.io/griffin-forestry/media/posts/6/responsive/NRCS-with-TSP-lg.webp 1366w ,https://dedwards7891.github.io/griffin-forestry/media/posts/6/responsive/NRCS-with-TSP-xl.webp 1600w ,https://dedwards7891.github.io/griffin-forestry/media/posts/6/responsive/NRCS-with-TSP-2xl.webp 1920w">
+      <img loading="lazy" src="https://griffinforestry.com/media/posts/6/NRCS-with-TSP.webp" height="628" width="1200" alt="NRCS TSP logo"  sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://griffinforestry.com/media/posts/6/responsive/NRCS-with-TSP-xs.webp 640w ,https://griffinforestry.com/media/posts/6/responsive/NRCS-with-TSP-sm.webp 768w ,https://griffinforestry.com/media/posts/6/responsive/NRCS-with-TSP-md.webp 1024w ,https://griffinforestry.com/media/posts/6/responsive/NRCS-with-TSP-lg.webp 1366w ,https://griffinforestry.com/media/posts/6/responsive/NRCS-with-TSP-xl.webp 1600w ,https://griffinforestry.com/media/posts/6/responsive/NRCS-with-TSP-2xl.webp 1920w">
       
     </figure>
 
@@ -67,9 +67,9 @@
         <author>
             <name>David Edwards</name>
         </author>
-        <link href="https://dedwards7891.github.io/griffin-forestry/designated-forest-land/"/>
-        <id>https://dedwards7891.github.io/griffin-forestry/designated-forest-land/</id>
-        <media:content url="https://dedwards7891.github.io/griffin-forestry/media/posts/5/Log-end.jpg" medium="image" />
+        <link href="https://griffinforestry.com/designated-forest-land/"/>
+        <id>https://griffinforestry.com/designated-forest-land/</id>
+        <media:content url="https://griffinforestry.com/media/posts/5/Log-end.jpg" medium="image" />
             <category term="forestry"/>
             <category term="forest management"/>
             <category term="designated forest land"/>
@@ -80,13 +80,13 @@
         <updated>2025-05-12T13:47:00-07:00</updated>
             <summary type="html">
                 <![CDATA[
-                        <img src="https://dedwards7891.github.io/griffin-forestry/media/posts/5/Log-end.jpg" alt="The cut end of a log" />
+                        <img src="https://griffinforestry.com/media/posts/5/Log-end.jpg" alt="The cut end of a log" />
                     In 2019, the Washington State Legislature commissioned a study by the University of Washington of trends in small, non-industrial private forest land ownership and management1. The UW study predicts that as many as 50,000 small forest landowners will sell some or all their forest land&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <p><img src="https://dedwards7891.github.io/griffin-forestry/media/posts/5/Log-end.jpg" class="type:primaryImage" alt="The cut end of a log" /></p>
+                    <p><img src="https://griffinforestry.com/media/posts/5/Log-end.jpg" class="type:primaryImage" alt="The cut end of a log" /></p>
                 <div><p>In 2019, the Washington State Legislature commissioned a study by the University of Washington of trends in small, non-industrial private forest land ownership and management<sup>1</sup>. The UW study predicts that as many as 50,000 small forest landowners will sell some or all their forest land within the decade following the study report’s release date<sup>2</sup>. An additional study from 2024 of small forest land ownership transfers revealed that, while most forest landowners would prefer to pass their forest land on as an inheritance to their children or grandchildren, the reality is that—in Washington State and nationally—most new forest owners purchase their land from a non-relative<sup>3</sup>.
 <br>
 <br>We regularly see such forest land sales here in the North Puget Sound counties. Often the sellers of forested parcels have enrolled them in the county’s Designated Forest Land (DFL) current use property tax exemption program, which may be unfamiliar to prospective buyers.

@@ -1,3 +1,3 @@
 User-agent: *
 Disallow:
-Sitemap: https://dedwards7891.github.io/griffin-forestry/sitemap.xml
+Sitemap: https://griffinforestry.com/sitemap.xml
